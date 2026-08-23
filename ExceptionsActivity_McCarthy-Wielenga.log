@@ -1,0 +1,3 @@
+﻿  ExceptionsActivity_McCarthy-Wielenga.cpp
+C:\Users\talia\OneDrive\Documents\CS 405\SQLInjectionDefense\ExceptionsActivity_McCarthy-Wielenga\ExceptionsActivity_McCarthy-Wielenga\ExceptionsActivity_McCarthy-Wielenga.cpp(49,2): warning C4286: 'const CustomException &': is caught by base class ('const std::exception &') on line 42
+  ExceptionsActivity_McCarthy-Wielenga.vcxproj -> C:\Users\talia\OneDrive\Documents\CS 405\SQLInjectionDefense\ExceptionsActivity_McCarthy-Wielenga\x64\Debug\ExceptionsActivity_McCarthy-Wielenga.exe

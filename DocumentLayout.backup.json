@@ -1,14 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\talia\\OneDrive\\Documents\\CS 405\\SQLInjectionDefense\\EncryptionAssignment\\",
+  "WorkspaceRootPath": "C:\\Users\\talia\\OneDrive\\Documents\\CS 405\\SQLInjectionDefense\\ExceptionsActivity_McCarthy-Wielenga\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B2354D27-63E8-4B04-9BF6-A80B5D49940A}|EncryptionAssignment\\EncryptionAssignment.vcxproj|C:\\Users\\talia\\OneDrive\\Documents\\CS 405\\SQLInjectionDefense\\EncryptionAssignment\\EncryptionAssignment\\Encryption.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{B2354D27-63E8-4B04-9BF6-A80B5D49940A}|EncryptionAssignment\\EncryptionAssignment.vcxproj|solutionrelative:EncryptionAssignment\\Encryption.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B2354D27-63E8-4B04-9BF6-A80B5D49940A}|EncryptionAssignment\\EncryptionAssignment.vcxproj|C:\\Users\\talia\\OneDrive\\Documents\\CS 405\\SQLInjectionDefense\\EncryptionAssignment\\EncryptionAssignment\\inputdata.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{B2354D27-63E8-4B04-9BF6-A80B5D49940A}|EncryptionAssignment\\EncryptionAssignment.vcxproj|solutionrelative:EncryptionAssignment\\inputdata.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{3D1B7206-C0F2-4D91-A427-0E8B7C2F525B}|ExceptionsActivity_McCarthy-Wielenga\\ExceptionsActivity_McCarthy-Wielenga.vcxproj|C:\\Users\\talia\\OneDrive\\Documents\\CS 405\\SQLInjectionDefense\\ExceptionsActivity_McCarthy-Wielenga\\ExceptionsActivity_McCarthy-Wielenga\\ExceptionsActivity_McCarthy-Wielenga.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3D1B7206-C0F2-4D91-A427-0E8B7C2F525B}|ExceptionsActivity_McCarthy-Wielenga\\ExceptionsActivity_McCarthy-Wielenga.vcxproj|solutionrelative:ExceptionsActivity_McCarthy-Wielenga\\ExceptionsActivity_McCarthy-Wielenga.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,29 +22,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "inputdata.txt",
-              "DocumentMoniker": "C:\\Users\\talia\\OneDrive\\Documents\\CS 405\\SQLInjectionDefense\\EncryptionAssignment\\EncryptionAssignment\\inputdata.txt",
-              "RelativeDocumentMoniker": "EncryptionAssignment\\inputdata.txt",
-              "ToolTip": "C:\\Users\\talia\\OneDrive\\Documents\\CS 405\\SQLInjectionDefense\\EncryptionAssignment\\EncryptionAssignment\\inputdata.txt",
-              "RelativeToolTip": "EncryptionAssignment\\inputdata.txt",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2026-08-01T19:15:16.88Z",
+              "DocumentIndex": 0,
+              "Title": "ExceptionsActivity_McCarthy-Wielenga.cpp",
+              "DocumentMoniker": "C:\\Users\\talia\\OneDrive\\Documents\\CS 405\\SQLInjectionDefense\\ExceptionsActivity_McCarthy-Wielenga\\ExceptionsActivity_McCarthy-Wielenga\\ExceptionsActivity_McCarthy-Wielenga.cpp",
+              "RelativeDocumentMoniker": "ExceptionsActivity_McCarthy-Wielenga\\ExceptionsActivity_McCarthy-Wielenga.cpp",
+              "ToolTip": "C:\\Users\\talia\\OneDrive\\Documents\\CS 405\\SQLInjectionDefense\\ExceptionsActivity_McCarthy-Wielenga\\ExceptionsActivity_McCarthy-Wielenga\\ExceptionsActivity_McCarthy-Wielenga.cpp",
+              "RelativeToolTip": "ExceptionsActivity_McCarthy-Wielenga\\ExceptionsActivity_McCarthy-Wielenga.cpp",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAAAFUAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-07-25T00:07:24.028Z",
               "EditorCaption": ""
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Encryption.cpp",
-              "DocumentMoniker": "C:\\Users\\talia\\OneDrive\\Documents\\CS 405\\SQLInjectionDefense\\EncryptionAssignment\\EncryptionAssignment\\Encryption.cpp",
-              "RelativeDocumentMoniker": "EncryptionAssignment\\Encryption.cpp",
-              "ToolTip": "C:\\Users\\talia\\OneDrive\\Documents\\CS 405\\SQLInjectionDefense\\EncryptionAssignment\\EncryptionAssignment\\Encryption.cpp",
-              "RelativeToolTip": "EncryptionAssignment\\Encryption.cpp",
-              "ViewState": "AgIAAHQAAAAAAAAAAAAAwGgAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-08-01T19:13:43.165Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             }
           ]
         }
