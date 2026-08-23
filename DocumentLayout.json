@@ -1,7 +1,12 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\talia\\OneDrive\\Documents\\CS 405\\SQLInjectionDefense\\ExceptionsActivity_McCarthy-Wielenga\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\talia\\OneDrive\\Documents\\CS 405\\SQLInjectionDefense\\GoogleTest_McCarthy-Wielenga\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{304CA8D0-B699-4C86-A8C9-9718F3E377C5}|GoogleTest_McCarthy-Wielenga\\GoogleTest_McCarthy-Wielenga.vcxproj|C:\\Users\\talia\\OneDrive\\Documents\\CS 405\\SQLInjectionDefense\\GoogleTest_McCarthy-Wielenga\\GoogleTest_McCarthy-Wielenga\\test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{304CA8D0-B699-4C86-A8C9-9718F3E377C5}|GoogleTest_McCarthy-Wielenga\\GoogleTest_McCarthy-Wielenga.vcxproj|solutionrelative:GoogleTest_McCarthy-Wielenga\\test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +14,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "test.cpp",
+              "DocumentMoniker": "C:\\Users\\talia\\OneDrive\\Documents\\CS 405\\SQLInjectionDefense\\GoogleTest_McCarthy-Wielenga\\GoogleTest_McCarthy-Wielenga\\test.cpp",
+              "RelativeDocumentMoniker": "GoogleTest_McCarthy-Wielenga\\test.cpp",
+              "ToolTip": "C:\\Users\\talia\\OneDrive\\Documents\\CS 405\\SQLInjectionDefense\\GoogleTest_McCarthy-Wielenga\\GoogleTest_McCarthy-Wielenga\\test.cpp",
+              "RelativeToolTip": "GoogleTest_McCarthy-Wielenga\\test.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIQAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-07-25T00:34:54.882Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
