@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="StaticAnalysisTest/StaticAnalysisTest.vcxproj" Id="28457395-51d9-403e-9a0e-07418701e71a" />
+</Solution>
